@@ -1,12 +1,16 @@
-<h1 align="center">¡Hola! Soy Monique 👩‍💻</h1>
+<h1 align="center">✨ Olá! Eu sou Monique 👩‍💻</h1>
 
 <p align="center">
-Desarrolladora Full Stack formada en 4Geeks Academy. Aplico la tecnología para resolver problemas reales con enfoque en la hostelería y la gestión.
+Brasileña de nacimiento, formada en Química, con más de 6 años de experiencia en el sector hotelero, emprendedora por naturaleza y apasionada por la tecnología.
+</p>
+
+<p align="center">
+Me gusta aprender, crear y, por qué no... salvar el mundo, aunque sea con líneas de código 🌍💻
 </p>
 
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🚀 Tecnologías que manejo
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,15 +27,16 @@ Desarrolladora Full Stack formada en 4Geeks Academy. Aplico la tecnología para 
 
 ---
 
-### 🌱 En desarrollo
+### 🌱 Actualmente trabajando en:
 
 - App de gestión hotelera con tareas de mantenimiento y limpieza
-- Automatización de procesos internos con herramientas personalizadas
+- Automatización de procesos internos para hoteles
 - Integración de IA con OpenAI para soporte técnico inteligente
 
 ---
 
-### 📫 ¿Dónde encontrarme?
+### 📫 Conectemos
 
 - [LinkedIn](https://www.linkedin.com/in/monique...)  
 - 📬 Email: tuemail@email.com
+
