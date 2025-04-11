@@ -37,6 +37,6 @@ Me gusta aprender, crear y, por qué no... salvar el mundo, aunque sea con líne
 
 ### 📫 Conectemos
 
-- [LinkedIn](https://www.linkedin.com/in/monique...)  
-- 📬 Email: tuemail@email.com
+- [LinkedIn]https://www.linkedin.com/in/monique-menezes-459589190/ 
+- 📬 Email: niquemenezes@gmail.com
 
