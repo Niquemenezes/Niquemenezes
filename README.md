@@ -29,8 +29,8 @@ Me gusta aprender, crear y, por qué no... salvar el mundo, aunque sea con líne
 
 ### 🌱 Actualmente trabajando en:
 
-- App de gestión hotelera con tareas de mantenimiento y limpieza
-- Automatización de procesos internos para hoteles
+- App de gestión de un centro de cuidados automotores.
+- Automatización de procesos internos para el centro de cuidados automotores.
 - Integración de IA con OpenAI para soporte técnico inteligente
 
 ---
